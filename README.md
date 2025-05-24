@@ -90,15 +90,6 @@ Il affiche ensuite les résultats dans la console.
 
 ---
 
-## Observations et améliorations possibles
-
-- Les données des comptes sont générées de façon aléatoire, une base de données réelle serait plus appropriée.
-- Ajouter la gestion des erreurs (ex : compte non trouvé) améliorerait la robustesse.
-- La sécurisation du Web Service pourrait être envisagée pour protéger les opérations.
-- Le client pourrait être enrichi avec une interface graphique pour plus d’ergonomie.
-
----
-
 ## Conclusion
 
 Ce TP a permis d’acquérir une expérience pratique dans la création et le déploiement d’un Web Service SOAP avec Java.  
